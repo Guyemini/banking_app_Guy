@@ -46,7 +46,7 @@ namespace banking_app
             this.balance = balance;
         }
 
-        public void SetCustomerOwner(Customer customerOwner)
+        public void SetCustomerOwnerSetCustomerOwner
         {
             this.customerOwner = customerOwner;
         }
